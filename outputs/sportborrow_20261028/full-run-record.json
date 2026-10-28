@@ -1,0 +1,957 @@
+{
+  "source": "Reconstructed from .artifact-work/full-test.log after Playwright --list replaced results.json",
+  "suites": [
+    {
+      "specs": [
+        {
+          "title": "TC-037",
+          "file": "admin.spec.js",
+          "line": 14,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-038",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-039",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-040",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-041",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-042",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-043",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-044",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-045",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-046",
+          "file": "admin.spec.js",
+          "line": 30,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-047",
+          "file": "admin.spec.js",
+          "line": 36,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-048",
+          "file": "admin.spec.js",
+          "line": 43,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-049",
+          "file": "admin.spec.js",
+          "line": 50,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-050",
+          "file": "admin.spec.js",
+          "line": 57,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-051",
+          "file": "admin.spec.js",
+          "line": 64,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-052",
+          "file": "admin.spec.js",
+          "line": 72,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-054",
+          "file": "admin.spec.js",
+          "line": 78,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-055",
+          "file": "admin.spec.js",
+          "line": 103,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-019",
+          "file": "member.spec.js",
+          "line": 14,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-020",
+          "file": "member.spec.js",
+          "line": 19,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-021",
+          "file": "member.spec.js",
+          "line": 25,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-022",
+          "file": "member.spec.js",
+          "line": 33,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-023",
+          "file": "member.spec.js",
+          "line": 40,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-024",
+          "file": "member.spec.js",
+          "line": 49,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-025",
+          "file": "member.spec.js",
+          "line": 57,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-026",
+          "file": "member.spec.js",
+          "line": 65,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-027",
+          "file": "member.spec.js",
+          "line": 70,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-028",
+          "file": "member.spec.js",
+          "line": 75,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-029",
+          "file": "member.spec.js",
+          "line": 87,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-030",
+          "file": "member.spec.js",
+          "line": 87,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-031",
+          "file": "member.spec.js",
+          "line": 87,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-032",
+          "file": "member.spec.js",
+          "line": 93,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-033",
+          "file": "member.spec.js",
+          "line": 98,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-034",
+          "file": "member.spec.js",
+          "line": 104,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-035",
+          "file": "member.spec.js",
+          "line": 109,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-036",
+          "file": "member.spec.js",
+          "line": 116,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-053",
+          "file": "member.spec.js",
+          "line": 121,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-056",
+          "file": "prerequisites.spec.js",
+          "line": 3,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-057",
+          "file": "prerequisites.spec.js",
+          "line": 7,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-058",
+          "file": "prerequisites.spec.js",
+          "line": 11,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-059",
+          "file": "prerequisites.spec.js",
+          "line": 15,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-060",
+          "file": "prerequisites.spec.js",
+          "line": 19,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-061",
+          "file": "prerequisites.spec.js",
+          "line": 23,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "skipped"
+                }
+              ],
+              "annotations": [
+                {
+                  "type": "skip",
+                  "description": "Prerequisite unavailable during the full Playwright run"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TC-001",
+          "file": "public.spec.js",
+          "line": 19,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-002",
+          "file": "public.spec.js",
+          "line": 25,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-003",
+          "file": "public.spec.js",
+          "line": 32,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-004",
+          "file": "public.spec.js",
+          "line": 39,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-005",
+          "file": "public.spec.js",
+          "line": 47,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-006",
+          "file": "public.spec.js",
+          "line": 56,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-007",
+          "file": "public.spec.js",
+          "line": 65,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-008",
+          "file": "public.spec.js",
+          "line": 74,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-009",
+          "file": "public.spec.js",
+          "line": 82,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-010",
+          "file": "public.spec.js",
+          "line": 90,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-011",
+          "file": "public.spec.js",
+          "line": 99,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-012",
+          "file": "public.spec.js",
+          "line": 110,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-013",
+          "file": "public.spec.js",
+          "line": 117,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-014",
+          "file": "public.spec.js",
+          "line": 129,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-015",
+          "file": "public.spec.js",
+          "line": 136,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-016",
+          "file": "public.spec.js",
+          "line": 142,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-017",
+          "file": "public.spec.js",
+          "line": 150,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        },
+        {
+          "title": "TC-018",
+          "file": "public.spec.js",
+          "line": 150,
+          "tests": [
+            {
+              "results": [
+                {
+                  "status": "passed"
+                }
+              ],
+              "annotations": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "startTime": "2026-10-28T10:02:43.378Z"
+  }
+}

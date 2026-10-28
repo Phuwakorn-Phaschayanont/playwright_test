@@ -1,9 +1,12 @@
 {
   "name": "playwright_test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "description": "Automated browser tests for SportBorrow",
+  "scripts": {
+    "test": "playwright test",
+    "test:public": "playwright test tests/public.spec.js",
+    "report": "playwright show-report"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
