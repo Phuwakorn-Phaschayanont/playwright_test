@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "site": "https://sportborrow.inprojex.tech/",
+  "results": {
+    "TC-057": {
+      "status": "Pass",
+      "detail": "Guest reset link opened, new password was set, and fresh login succeeded."
+    },
+    "TC-059": {
+      "status": "Pass",
+      "detail": "Previously used slip was rejected for QA fine FIN-2610-0014. New 200 THB slip was accepted for FIN-2610-0013; history shows ชำระแล้ว and the supplied member account is usable."
+    },
+    "TC-061": {
+      "status": "Pass",
+      "detail": "QA broadcast showed 7 recipients and QA member received it. Test announcement was deleted afterward."
+    }
+  },
+  "cleanup": {
+    "equipment_stock_restored": true,
+    "test_announcement_deleted": true,
+    "provided_member_fine_paid": true,
+    "qa_account": "MEM-000010 retained as fine-locked; deletion denied because the account has borrow history. Email changed to example.invalid."
+  },
+  "overall": {
+    "pass": 60,
+    "fail": 0,
+    "blocked": 1,
+    "total": 61
+  }
+}
